@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=oO5FNfZMrWg
+https://youtu.be/aSlK3GhRuXA?si=OW3kYYv3jXPVeNR_ - 10 Tricks
+https://www.youtube.com/watch?v=re2JFITR7TI - merge class conflict
+
+https://www.youtube.com/watch?v=BKFPfzWM3CQ, Reusable Component
+https://blog.stackademic.com/use-this-pattern-to-10x-your-react-components-64ed475f86e7, Component Composition
