@@ -35,7 +35,7 @@ const ProductDescription = ({ children }) => (
 const ProductButton = ({ children, ...props }) => (
 	<button
 		{...props}
-		className="text-xl font-bold bg-black text-white w-full grow rounded-lg py-2"
+		className="lg:mb-0 md:mb-0 mb-3 text-xl font-bold bg-black text-white w-full grow rounded-lg py-2"
 	>
 		{children}
 	</button>

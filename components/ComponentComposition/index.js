@@ -20,7 +20,7 @@ const ProductComposition = () => {
 					<Product.Size>L</Product.Size>
 					<Product.Size>XL</Product.Size>
 				</Product.Sizes>
-				<div className="flex gap-4">
+				<div className="lg:flex md:flex  gap-4">
 					<Product.Button onClick={() => console.log('Bought')}>
 						BUY NOW
 					</Product.Button>
